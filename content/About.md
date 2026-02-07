@@ -15,7 +15,7 @@ About me and this site.
 
 ## This site
 
-MONAD is a personal knowledge base and log. Notes, thoughts, and references live here.
+NOMAD is a personal knowledge base and log. Notes, thoughts, and references live here.
 
 ## Elsewhere
 

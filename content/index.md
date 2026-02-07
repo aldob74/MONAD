@@ -16,7 +16,7 @@ layout: page
 [[Hobbies]] — projects and pastimes.
 
 **Meta**  
-[[About]] · [[Contact]]
+[[About]]
 
 ---
 

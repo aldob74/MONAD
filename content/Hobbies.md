@@ -9,7 +9,7 @@ Projects and pastimes.
 
 ## Active
 
-- **Hobby A:** [Description placeholder]
+- **Chess:** [Description placeholder]
 - **Hobby B:** [Description placeholder]
 
 ## Projects
