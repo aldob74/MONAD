@@ -2,23 +2,10 @@
 title: Home
 layout: page
 ---
+**The wandering map of my brain**
 
-# NOMAD
+Notes, some thoughts, and things I'm interested in.
 
-**This is the website of Nomad.**
-
-I keep notes, half-formed thoughts, and work in progress here. The name is a partial anagram of my own—this site is the wandering map of what I’m reading, building, and thinking.
-
-**Navigation:** [[About]] for who I am and what this site is; [[Notes]] for references and by-topic notes; [[Thoughts]] for drafts and resolved ideas; [[Hobbies]] for projects and pastimes. Use the **Graph**, **All Files**, and **Tags** links to explore.
-
----
-
-## Newest
-
-- [[Notes]] — references and by-topic notes
-- [[Thoughts]] — drafts, fragments, and resolved ideas
-- [[Hobbies]] — projects and pastimes
-- [[About]] — me and this site
 
 ---
 
