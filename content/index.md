@@ -2,9 +2,6 @@
 title: Home
 layout: page
 ---
-
-# MONAD
-
 > Notes, thoughts, and work in progress.
 
 ---
