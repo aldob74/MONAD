@@ -5,25 +5,22 @@ layout: page
 
 # MONAD
 
-> Notes and work in progress. Reference and log below; about, changelog, contact in **Meta**.
+> Notes, thoughts, and work in progress.
 
 ---
 
-**Active**  
-[[Placeholder A]] · [[Placeholder B]] · [[Placeholder C]]
+**Notes**  
+[[Notes]] — references and by-topic notes.
 
-**Knowledge**  
-[Category I]: [[Topic 01]] [[Topic 02]] [[Topic 03]]  
-[Category II]: [[Topic 04]] [[Topic 05]] [[Topic 06]]
+**Thoughts**  
+[[Thoughts]] — drafts, fragments, and resolved ideas.
 
-**Log**  
-`2026-02-07` [[Entry Placeholder]] · `2026-01-01` [[Entry Placeholder]] · `[Date]` [[Entry Placeholder]]
+**Hobbies**  
+[[Hobbies]] — projects and pastimes.
 
 **Meta**  
-[[About]] · [[Changelog]] · [[Contact]]
+[[About]] · [[Contact]]
 
 ---
 
 [Graph] · [All Files] · [Tags]
-
-☙❧
